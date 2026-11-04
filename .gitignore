@@ -1,0 +1,29 @@
+# To ignore the Virtual environments
+.venv/
+venv/
+
+# To ignore the Python generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# To ignore Local environment and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# To ignore editor files
+.DS_Store
+.vscode/
+
+# To ignore Raw and intermediate data
+data/raw/*
+data/processed/*
+
+# To ignore the Keep folder placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# To ignore the Temporary files
+.pytest_cache/
+.coverage
