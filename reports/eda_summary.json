@@ -1,0 +1,17 @@
+{
+    "training_rows": 10834,
+    "feature_count": 16,
+    "class_count": 7,
+    "missing_values": 0,
+    "class_distribution": {
+        "DERMASON": 2837,
+        "SIRA": 2109,
+        "SEKER": 1621,
+        "HOROZ": 1488,
+        "CALI": 1304,
+        "BARBUNYA": 1057,
+        "BOMBAY": 418
+    },
+    "high_correlation_pair_count": 21,
+    "features_with_iqr_outliers": 15
+}
