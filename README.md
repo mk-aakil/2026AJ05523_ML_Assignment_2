@@ -38,11 +38,11 @@ The original dataset contains **13,611 observations**, 16 numerical predictors a
 
 **GitHub Repository:** https://github.com/mk-aakil/2026AJ05523_ML_Assignment_2
 
-**Live Streamlit Application:** [INSERT YOUR STREAMLIT APPLICATION URL]
+**Live Streamlit Application:** https://2026aj05523-ml-assignment-2.streamlit.app/
 
 The repository includes source code, Jupyter notebooks, saved model pipelines, dependency requirements, test data, evaluation reports and the Streamlit application.
 
-## d. Models Used
+##  Models Used
 
 Five classification models were implemented:
 
