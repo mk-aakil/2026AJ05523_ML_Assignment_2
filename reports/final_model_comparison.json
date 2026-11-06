@@ -1,0 +1,52 @@
+[
+    {
+        "Model":"Logistic Regression",
+        "Accuracy":0.919158361,
+        "AUC":0.9947170299,
+        "Precision":0.9307249956,
+        "Recall":0.9300490838,
+        "F1":0.9302365422,
+        "MCC":0.9023140259,
+        "Prediction Time (ms)":13.3697499987
+    },
+    {
+        "Model":"SVM",
+        "Accuracy":0.9147286822,
+        "AUC":0.9942577816,
+        "Precision":0.9298411854,
+        "Recall":0.9263503199,
+        "F1":0.9276640641,
+        "MCC":0.8970653781,
+        "Prediction Time (ms)":14.6987079934
+    },
+    {
+        "Model":"KNN",
+        "Accuracy":0.9136212625,
+        "AUC":0.9854093383,
+        "Precision":0.9268499929,
+        "Recall":0.9237232271,
+        "F1":0.9250422351,
+        "MCC":0.895554624,
+        "Prediction Time (ms)":250.656624994
+    },
+    {
+        "Model":"Decision Tree",
+        "Accuracy":0.904023625,
+        "AUC":0.9700476473,
+        "Precision":0.9178629235,
+        "Recall":0.91792018,
+        "F1":0.9177843862,
+        "MCC":0.8839536608,
+        "Prediction Time (ms)":4.8289170081
+    },
+    {
+        "Model":"Naive Bayes",
+        "Accuracy":0.7630121816,
+        "AUC":0.9669972343,
+        "Precision":0.773609514,
+        "Recall":0.7685156691,
+        "F1":0.76689534,
+        "MCC":0.7142961768,
+        "Prediction Time (ms)":11.5965839941
+    }
+]

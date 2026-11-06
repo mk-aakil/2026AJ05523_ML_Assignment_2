@@ -1,0 +1,20 @@
+{
+    "dataset": "UCI Dry Bean",
+    "test_rows": 2709,
+    "feature_count": 16,
+    "class_count": 7,
+    "model_count": 5,
+    "ranking_metric": "Macro F1",
+    "highest_test_macro_f1_model": "Logistic Regression",
+    "highest_test_macro_f1": 0.9302365421734592,
+    "metrics": [
+        "Accuracy",
+        "AUC",
+        "Precision",
+        "Recall",
+        "F1",
+        "MCC"
+    ],
+    "default_selection": "All Models",
+    "default_test_csv": "data/samples/default_test.csv"
+}

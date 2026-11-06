@@ -106,6 +106,7 @@ soupsieve==4.0
 stack-data==0.6.3
 starlette==1.10.0
 streamlit==1.66.1
+tabulate==0.10.0
 terminado==0.18.1
 threadpoolctl==3.7.0
 tinycss2==1.5.1
